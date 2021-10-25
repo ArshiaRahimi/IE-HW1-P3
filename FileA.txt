@@ -1,0 +1,5 @@
+this is FileA
+
+
+
+this line is added later and i'm going to use git amend for this part
